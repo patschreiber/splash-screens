@@ -1,0 +1,9 @@
+jp2a --invert --fill --html --output="flashlight.html" ./sources/flashlight/pic1.png
+jp2a --fill --html --width=80  --output="flashlight_dark.html" ./sources/flashlight/pic1.png
+
+figlet -f doom "macOSH-T"
+
+
+jp2a -i --fill --color --html --output="colorsplash_me.html" ./sources/colorsplash_me/IMG_4860.jpeg
+jp2a --fill --color --html --output="colorsplash_me.html" ./sources/colorsplash_me/IMG_4860.jpeg
+ 
